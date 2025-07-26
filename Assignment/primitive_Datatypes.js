@@ -1,5 +1,3 @@
-const { log } = require("console")
-
 let firstName = "Suhan "
 let companyName = "Bankbazaar"
 let mobileNumber = 8637491124

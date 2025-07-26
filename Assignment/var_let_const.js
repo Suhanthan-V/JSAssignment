@@ -4,7 +4,7 @@ const browserName = "chrome";
 
 function getBrowserName(){
     if (browserName == "chrome"){
-        var browserName;
+        let browserName;
     }
     console.log(browserName);
 }
